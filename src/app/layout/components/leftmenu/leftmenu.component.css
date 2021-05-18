@@ -1,3 +1,22 @@
 #sidenavAccordion{
   margin-top: 56px;
   }
+#layoutSidenav_nav{
+  height: 100%;
+  width: 250px;
+  position: fixed;
+}
+.nav{
+  margin-top: 35px;
+}
+
+.profile-card {
+  text-align: center;
+  padding: 0 20px 20px 20px;
+}
+ img {
+   width: 120px;
+    height: 80px;
+    object-fit:inherit;
+    
+  }
